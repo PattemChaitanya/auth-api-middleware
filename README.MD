@@ -1,0 +1,17 @@
+- Update User Model
+- Update Register Controller
+- Update Login Controller
+- Verify Email Controller
+- Email Setup
+- Send Verification Link
+- Token Model
+- Setup Token in Login Controller
+- Send Multiple Cookies
+- Check for Existing Token
+- Refactor Auth Middleware - Access , Refresh Token
+- Logout
+- Forgot/Reset Password Functionality
+- Forgot Password Controller
+- Send Reset Password Email
+- Reset Password Controller
+- Hash Password Token
